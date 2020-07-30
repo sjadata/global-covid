@@ -1,4 +1,4 @@
-This project showcases world COVID data in a PowerBI visualisation and its data pipline. 
+This page showcases world COVID data in a PowerBI visualisation and its data pipline. 
   
 __World Covid Data__
 
