@@ -4,14 +4,14 @@ __World Covid Data__
 
 ---
   
-<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNjNhNDBjOTctMGM3ZC00MDE3LTkyM2QtYTk3NGM4ZGI1ZjFmIiwidCI6ImZiNzMyMGQyLWNkZGQtNGU5Yi04NTdkLTVmMWZjYjZjNTcwZSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNTM2YWU0ZTctZGQxMC00MGE2LThlMjYtOTY1NTk1NzM2YjU3IiwidCI6ImZiNzMyMGQyLWNkZGQtNGU5Yi04NTdkLTVmMWZjYjZjNTcwZSJ9" frameborder="0" allowFullScreen="true"></iframe>
 <br/><br/>
 
  __Pipeline__
  
  ---
    
-<img src="World COVID Pipeline.png ">
+<img src="World COVID Pipeline.png">
 <br/><br/>
    
 ---
