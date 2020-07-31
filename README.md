@@ -14,7 +14,7 @@ __Power BI Base Data Model__
 <img src="PowerBI Base Data Model.PNG">
 <br/><br/>
 
-World COVID Pipeline.png
+
  __Pipeline__
  
  ---
